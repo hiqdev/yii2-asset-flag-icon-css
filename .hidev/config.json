@@ -49,7 +49,7 @@
         },
         "autoload": {
             "psr-4": {
-                "hiqdev\\assets\\flag-icon-css\\": ""
+                "hiqdev\\assets\\FlagIconCss\\": ""
             }
         },
         "extra": {
