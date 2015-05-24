@@ -5,7 +5,7 @@
  * @copyright Copyright (c) 2015 HiQDev
  */
 
-namespace hiqdev\assets\FlagIconCss;
+namespace hiqdev\assets\flagiconcss;
 
 class FlagIconCssAsset extends \yii\web\AssetBundle
 {
