@@ -4,6 +4,7 @@
     "description": "Yii 2 asset for bower flag-icon-css",
     "keywords": [
         "flag-icon-css",
+        "asset",
         "extension",
         "yii2"
     ],
