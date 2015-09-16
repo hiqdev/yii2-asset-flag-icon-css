@@ -1,7 +1,7 @@
 Yii 2 asset for bower flag-icon-css
 -----------------------------------
 
-Yii 2 asset for bower flag-icon-css
+Yii 2 asset for [lipis/flag-icon-css](https://github.com/lipis/flag-icon-css)
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/yii2-asset-flag-icon-css/v/stable.png)](https://packagist.org/packages/hiqdev/yii2-asset-flag-icon-css)
 [![Total Downloads](https://poser.pugx.org/hiqdev/yii2-asset-flag-icon-css/downloads.png)](https://packagist.org/packages/hiqdev/yii2-asset-flag-icon-css)

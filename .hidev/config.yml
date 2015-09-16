@@ -4,6 +4,7 @@ package:
     title:          Yii 2 asset for bower flag-icon-css
     type:           yii2-extension
     keywords:       flag-icon-css, asset, extension, yii2
+    description:    Yii 2 asset for [lipis/flag-icon-css](https://github.com/lipis/flag-icon-css)
 
 require:
     hiqdev/hidev-config:        "*"
