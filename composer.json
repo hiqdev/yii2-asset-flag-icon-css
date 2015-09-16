@@ -8,7 +8,7 @@
         "extension",
         "yii2"
     ],
-    "homepage": "https://hiqdev.com/yii2-asset-flag-icon-css",
+    "homepage": "https://github.com/hiqdev/yii2-asset-flag-icon-css",
     "license": "BSD-3-Clause",
     "support": {
         "email": "support@hiqdev.com",
@@ -49,7 +49,7 @@
     },
     "autoload": {
         "psr-4": {
-            "hiqdev\\assets\\flagiconcss\\": ""
+            "hiqdev\\assets\\flagiconcss\\": "src"
         }
     },
     "extra": {

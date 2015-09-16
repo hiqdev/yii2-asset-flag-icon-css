@@ -1,0 +1,10 @@
+package:
+    name:           yii2-asset-flag-icon-css
+    namespace:      hiqdev\assets\flagiconcss
+    title:          Yii 2 asset for bower flag-icon-css
+    type:           yii2-extension
+    keywords:       flag-icon-css, asset, extension, yii2
+
+require:
+    hiqdev/hidev-config:        "*"
+    hiqdev/hidev-config-php:    "*"
