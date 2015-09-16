@@ -3,6 +3,9 @@ hiqdev/yii2-asset-flag-icon-css changelog
 
 ## Under development
 
+
+## 0.8.2 2015-09-16
+
 - Changed version to 0.8.2
 
 ## 0.8.0 2015-09-16

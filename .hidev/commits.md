@@ -3,6 +3,9 @@ hiqdev/yii2-asset-flag-icon-css commits history
 
 ## Under development
 
+
+## 0.8.2 2015-09-16
+
 - Changed version to 0.8.2
     - d1326ec 2015-09-16 improved package description (sol@hiqdev.com)
     - 6d966e9 2015-09-16 changed version to 0.8.2 (sol@hiqdev.com)
