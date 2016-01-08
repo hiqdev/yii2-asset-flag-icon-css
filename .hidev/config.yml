@@ -7,5 +7,5 @@ package:
     description:    Yii 2 asset for [lipis/flag-icon-css](https://github.com/lipis/flag-icon-css)
 
 require:
-    hiqdev/hidev-config:        "*"
-    hiqdev/hidev-config-php:    "*"
+    hiqdev/hidev-php:       "*"
+    hiqdev/hidev-vendor:    "*"
