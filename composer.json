@@ -1,7 +1,7 @@
 {
     "name": "hiqdev/yii2-asset-flag-icon-css",
     "type": "yii2-extension",
-    "description": "Yii 2 asset for bower flag-icon-css",
+    "description": "Yii2 asset for bower flag-icon-css",
     "keywords": [
         "flag-icon-css",
         "asset",

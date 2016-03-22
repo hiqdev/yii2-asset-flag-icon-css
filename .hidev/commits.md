@@ -1,10 +1,9 @@
 hiqdev/yii2-asset-flag-icon-css commits history
 -----------------------------------------------
 
-## Under development
-
 ## 1.0.0 2016-01-08
 
+    - 8c36259 2016-01-08 tagged release (d.naumenko.a@gmail.com)
 - Changed version to 1.0.0
     - 2ab1860 2016-01-08 tagged release (d.naumenko.a@gmail.com)
     - 961acde 2016-01-08 Merge pull request #1 from fetus-hina/update-1.0 (d.naumenko.a@gmail.com)

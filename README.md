@@ -1,14 +1,16 @@
-Yii 2 asset for bower flag-icon-css
-===================================
+Yii2 flag-icon-css
+==================
+
+**Yii2 asset for bower flag-icon-css**
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/yii2-asset-flag-icon-css/v/stable)](https://packagist.org/packages/hiqdev/yii2-asset-flag-icon-css)
 [![Total Downloads](https://poser.pugx.org/hiqdev/yii2-asset-flag-icon-css/downloads)](https://packagist.org/packages/hiqdev/yii2-asset-flag-icon-css)
 [![Build Status](https://img.shields.io/travis/hiqdev/yii2-asset-flag-icon-css.svg)](https://travis-ci.org/hiqdev/yii2-asset-flag-icon-css)
-[![Code Coverage](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-flag-icon-css/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-flag-icon-css/?branch=master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-flag-icon-css/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-flag-icon-css/?branch=master)
+[![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/hiqdev/yii2-asset-flag-icon-css.svg)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-flag-icon-css/)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/hiqdev/yii2-asset-flag-icon-css.svg)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-flag-icon-css/)
 [![Dependency Status](https://www.versioneye.com/php/hiqdev:yii2-asset-flag-icon-css/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:yii2-asset-flag-icon-css/dev-master)
 
-Yii 2 asset for [lipis/flag-icon-css](https://github.com/lipis/flag-icon-css)
+Yii2 asset for [lipis/flag-icon-css](https://github.com/lipis/flag-icon-css)
 
 ## Installation
 
@@ -33,4 +35,4 @@ to the require section of your composer.json.
 This project is released under the terms of the BSD-3-Clause [license](LICENSE).
 Read more [here](http://choosealicense.com/licenses/bsd-3-clause).
 
-Copyright © 2016, HiQDev (http://hiqdev.com/)
+Copyright © 2015-2016, HiQDev (http://hiqdev.com/)
