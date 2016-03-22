@@ -1,6 +1,11 @@
 hiqdev/yii2-asset-flag-icon-css commits history
 -----------------------------------------------
 
+## 1.4.0 2016-03-22
+
+- Changed version to 1.4.0
+    - f3619ed 2016-03-22 changed version to 1.4.0 (sol@hiqdev.com)
+
 ## 1.3.0 2016-03-22
 
 - Changed version to 1.3.0
