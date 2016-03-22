@@ -1,6 +1,10 @@
 hiqdev/yii2-asset-flag-icon-css changelog
 -----------------------------------------
 
+## 1.1.0 2016-03-22
+
+- Changed version to 1.1.0
+
 ## 1.0.0 2016-01-08
 
 - Changed version to 1.0.0
